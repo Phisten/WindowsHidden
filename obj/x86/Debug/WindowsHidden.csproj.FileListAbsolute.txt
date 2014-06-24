@@ -1,0 +1,5 @@
+C:\Users\csie\Documents\Visual Studio 2010\Projects\WindowsHidden\WindowsHidden\bin\Debug\WindowsHidden.exe
+C:\Users\csie\Documents\Visual Studio 2010\Projects\WindowsHidden\WindowsHidden\bin\Debug\WindowsHidden.pdb
+C:\Users\csie\Documents\Visual Studio 2010\Projects\WindowsHidden\WindowsHidden\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\csie\Documents\Visual Studio 2010\Projects\WindowsHidden\WindowsHidden\obj\x86\Debug\WindowsHidden.exe
+C:\Users\csie\Documents\Visual Studio 2010\Projects\WindowsHidden\WindowsHidden\obj\x86\Debug\WindowsHidden.pdb
